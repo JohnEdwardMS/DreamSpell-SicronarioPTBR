@@ -1,0 +1,37 @@
+[Tutorial Script 7 "Graphics"]
+The script displayes different seals and symbols
+using the fonts included in the program.
+
+FONT 48 -64 8 0 0 thn nrm DREAMSPELL2x
+
+Please type capital letters for displaying Seals 
+in DREAMSPELL2x font
+TEXT 104 97 rgt 'B'
+FONT 48 -64 0 0 255 thn nrm DREAMSPELL2x
+TEXT 214 96 rgt 'W'
+FONT 48 -64 0 0 0 thn nrm DREAMSPELL2x
+TEXT 214 96 rgt 'C'
+
+Please type small letters for displaying Tones
+in DREAMSPELL2x font
+TEXT 213 69 rgt 'g'
+
+To display Planets use MayanPlanets font
+FONT 48 -64 8 0 0 thn nrm MayanPlanets
+TEXT 209 203 rgt 'A'
+
+To display Vinals use MayanVinals font
+FONT 48 -64 8 0 0 thn nrm MayanVinals
+TEXT 97 203 rgt 'D'
+
+To display Runes use RUNES2 font
+FONT 48 -64 8 0 0 thn nrm RUNES2
+TEXT 18 286 rgt 'ABCDEFG'
+
+The 7:7::7:7 game
+FONT 48 -64 8 0 0 thn nrm The 7777 game
+TEXT 153 22 rgt 'A'
+
+UR Runes
+FONT 48 -64 8 0 0 thn nrm URRUNE
+TEXT 154 162 rgt 'T'

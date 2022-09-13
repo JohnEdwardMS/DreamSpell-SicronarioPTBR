@@ -1,0 +1,21 @@
+[Tutorial Script 4  "Text"]
+Script displays text.
+The first line displays from a specific point,
+teh second one is centered.
+FONT 28 -37 8 0 0 thn nrm Arial
+TEXT 49 239 rgt 'freely aligned text.'
+TEXT 0 50 cnt 'Centered text.'
+
+Actions:
+1)Set the size of picture (width and height)
+768*1024
+2)Add Arial font
+3)Add text as in the 1st example.
+Text -> type text -> click in the field 
+-> Add
+4)Text -> type text -> Add
+-> manualy set the second value(currently 50)
+or 
+ Text -> type text ->  click in teh field ->
+Add -> manualy set the first value 
+(0) è correction rgt to cnt (center).

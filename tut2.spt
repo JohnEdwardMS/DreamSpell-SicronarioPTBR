@@ -1,0 +1,11 @@
+[Tutorial script 2   "Dragon"]
+The script draws the Dragon seal.
+Chose background:
+Red: 7
+Green: 0
+Blue: 35
+PICT 93 114 7 0 35 rgt 'F:\Мои документы\My projects\Dreamsp\graphic\1.bmp'
+Действия:
+1) Graphics button -> Choose picture -> ОК
+-> Click in the field, where graphics is drawn 
+> Click Add button

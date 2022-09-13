@@ -1,0 +1,22 @@
+Use the following commands in the script:
+PICT - adds graphics to your sheet (bmp pictures)
+FONT - changes a font that can be used for printing
+TEXT - puts the text on the sheet using the font, that have been chosen
+by the FONT command.
+MOON - adds a picture of the moon phase.
+YEAR - adds full 13 Moon Calendar and draws Year Planetary Service Wavespell.
+There special buttons that enable to add these instructions step by
+step and choose necessary options. (except YEAR).
+You have to redraw the new script that you have (Draw button).
+Now after you press PRINT, your printer will print out the picture that
+you have redrawn. 
+
+In the printing script editor you can export scripts from calendar or
+from file. Of course you can save you own scrips in the file. With exporting scripts from the calendar you can easy print any graphics without creating new script.
+
+In the simple mode the program automatically will set up all the parameters,
+you just need to select what would you like to print, choose indention size
+and click print.You can choose color or black and white option for printing.
+
+
+To read next page click on the text…

@@ -1,0 +1,90 @@
+For Bank transfer from other counrtys in dollars please use this requisites: 
+ 
+Reseiver`s correspondent: The Bank of New York, New York, NY, USA
+ 
+SWIFT: IRVT US 3N
+ 
+Account With Institution: SAVINGS BANK OF THE RUSSIAN FEDERATION,MOSCOW, 
+(HEAD OFFICE - ALL RUSSIAN OFFICES AND BRANCHES)
+ 
+SWIFT: SABRRUMM
+ 
+Brunch: Tsaritsynskoye branch 7978/01342, Moscow, Russia
+ 
+Beneficiary customer: SHUBIN ARTEM ALEKSANDROVICH
+ 
+Beneficiary account: 42301 840 0 3806 6600316
+ 
+ 
+ 
+ 
+For Bank transfer from Russia in dollars (USD) please use this requisites: 
+ 
+Отделение банка/bank brunch: 
+ Царицынское отделение Сбербанка России г.Москвы №7978
+ СДО №01342
+ 
+Р/счёт:  30301 810 9 3800 0603806
+ 
+К/счёт:  30101 810 4 0000 0000225
+ 
+БИК:  044525225
+ 
+ИНН:  7707083893
+ 
+КПП:  774401001
+ 
+Л/счёт/account:  42301 840 0 3806 6600316
+ 
+Получатель/beneficiary customer: Шубин Артём Александрович
+ 
+ 
+ 
+ 
+For Bank transfer from Russia in rubles please use this requisites: 
+ 
+Отделение банка/bank brunch: 
+ Вернадское отделение Сбербанка России г.Москвы №7970
+ Универсальный дополнительный офис №0495
+ 
+Р/счёт:  30301 810 6 3800 0603818
+ 
+К/счёт:  30101 810 4 0000 0000225
+ 
+БИК:  044525225
+ 
+ИНН:  7707083893
+ 
+КПП:  774403002
+ 
+Л/счёт/account:  42301 810 8 3810 0748267
+ 
+Получатель/beneficiary customer: Шубин Артём Александрович
+ 
+ 
+ 
+ 
+For transfer with WebMoney in WMZ units please use: 
+ Z261300480555
+ 
+ 
+ 
+ 
+For transfer with WebMoney in WME units please use: 
+ E957654117076
+ 
+ 
+ 
+ 
+For transfer with WebMoney in WMR units please use: 
+ R766978768296
+ 
+ 
+ 
+ 
+For transfer with WebMoney in WMU units please use 
+ U677998803660
+ 
+ 
+ 
+ 

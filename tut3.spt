@@ -1,0 +1,13 @@
+[Tutorial Script 3  "Moon"]
+The script draws two moons.
+One moon as picture, the other filled with chosen color.
+MOON 49 45 50 50 IMAGE
+MOON 140 45 50 40 0 0 0
+
+Actions:
+1) Click Moon button -> phase 50 -> type IMAGE ->
+size 50 -> click in the field, 
+where graphics is drawn > Add button
+2) Moon button -> phase 50 -> type any text ->
+choose color -> size 50 -> click in the field, 
+where graphics is drawn > Add button

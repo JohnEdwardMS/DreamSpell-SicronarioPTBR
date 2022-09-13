@@ -1,0 +1,12 @@
+[Tutorial script 1   "ABC"]
+The script draws 3 symbols from the Dreamspell2x font
+(this font is included in the program)
+Please note that the program ignores this text. 
+It reads only commands below.
+FONT 72 -96 8 0 0 thn nrm DREAMSPELL2x
+TEXT 23 13 rgt 'ABC'
+Actions:
+1) Font button -> choosing font -> ÎÊ
+-> Add button
+2) Text button -> type ABC -> click in the field,
+where graphics is drawn -> Click Add button

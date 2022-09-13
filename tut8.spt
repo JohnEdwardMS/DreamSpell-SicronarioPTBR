@@ -1,0 +1,13 @@
+[Tutorial Script 8  "Today"]
+The script displays todays Seal.
+If you type the following words without exlamation marks
+in the place of the text the script draws the following:
+plasm - Todays Plasma sign
+tone   - Todays Tone
+guide - Todays Guide Seal
+kin - Todays Seal
+FONT 72 -96 0 0 0 thn nrm DREAMSPELL2x
+TEXT 10 10 rgt kin
+
+If the calendar displays a different day, 
+the chosen day's seal (tone etc.) will be printed out!

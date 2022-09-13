@@ -1,0 +1,13 @@
+[Tutorial Script 6  "Text"]
+The script displays text.
+All the text is displayed with the same font.
+Only the text header is displayed with larger font size.
+FONT 11 -15 8 0 0 bld nrm Arial
+TEXT 0 85 cnt 'tutorial script.'
+FONT 9 -12 8 0 0 bld nrm Arial
+TEXT 0 105 cnt 'Now you can type large texts.'
+TEXT 0 120 cnt 'Obviously, in order to type this text'
+TEXT 0 135 cnt 'Choose Font function was used only'
+TEXT 0 150 cnt 'once, not including the header.'
+TEXT 0 165 cnt 'Line spaces were set'
+TEXT 0 180 cnt 'manualy.'

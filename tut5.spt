@@ -1,0 +1,18 @@
+[Tutorial script 5 "Description"]
+The script displays seal description.
+The seal is colored by the font's color.
+The color is a mix of three parts
+Red 255 Green 0 Blue 0.
+In the FONT command it looks like
+sequence of three values:
+255 0 0.
+Here a symbol is displayed with black color.
+Each text line here is dispalyed with diferent font.
+
+FONT 72 -96 255 0 0 thn nrm DREAMSPELL2x
+TEXT 50 50 rgt 'W'
+FONT 72 -96 0 0 0 thn nrm DREAMSPELL2x
+TEXT 50 51 rgt 'A'
+
+FONT 11 -15 8 0 0 bld nrm Arial
+TEXT 155 91 rgt 'This is the Red Dragon Seal.'
